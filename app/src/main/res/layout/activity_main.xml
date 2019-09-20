@@ -22,7 +22,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/txtTitle"
-        android:textSize="40sp"
+        android:textSize="30sp"
         app:layout_constraintEnd_toStartOf="@+id/textView"
         app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toTopOf="parent"
